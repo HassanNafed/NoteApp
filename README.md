@@ -24,6 +24,8 @@ A Note App Flutter project.
 ![9](https://github.com/HassanNafed/NoteApp/assets/128227283/d05f5e18-2a2e-4065-af1b-4f5e0b38e0f6)
 ## chosee image from gallery
 ![10](https://github.com/HassanNafed/NoteApp/assets/128227283/f4508e0f-eaee-4554-8519-3e3f8426c698)
+## after editing
+![11](https://github.com/HassanNafed/NoteApp/assets/128227283/5f4ba446-025a-414a-b128-7c46ce68ac8f)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
