@@ -29,7 +29,7 @@ A Note App Flutter project.
 ## chosee image from gallery
 
 ![10](https://github.com/HassanNafed/NoteApp/assets/128227283/73a38e78-2fb9-4d5e-a307-650c8ab94bd3)
-## after editing
+## After Editing
 
 
 ![11](https://github.com/HassanNafed/NoteApp/assets/128227283/5455cab2-b613-4128-8e5d-bea1400b1877)
